@@ -10,7 +10,7 @@ Read the instructions of this file in the README.md
 | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 
 - ### **A**
-
+  - [Amir A.] (https://github.com/TheLoneLawliet) Meta-Front-End development
   - [Adejuwon Toluwalase](https://github.com/Tolux001) Frontend development
 
   - [Anna Giacomozzi](https://github.com/annagiac) Frontend development
